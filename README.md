@@ -164,4 +164,4 @@ The analysis reveals that while the ecommerce platform demonstrates strong custo
 ![Conversion Analytics](Dashboard Screenshots/Conversion Analytics.jpg)
 ![Customer Analytics](Dashboard Screenshots/Customer Analytics.jpg)
 ![Operational Analytics](Dashboard Screenshots/Operational Analytics.jpg)
-![Geographical Analytics](Dashboard Screenshots/Geographic Analytics.jpg
+![Geographical Analytics](Dashboard Screenshots/Geographic Analytics.jpg)
