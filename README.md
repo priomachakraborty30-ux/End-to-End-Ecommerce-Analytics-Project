@@ -153,3 +153,15 @@ Provides city-level analysis of revenue contribution, order distribution, and re
 ## 6. Overall Business Impact & Insights
 
 The analysis reveals that while the ecommerce platform demonstrates strong customer acquisition, diversified geographical reach, and healthy mid-tier customer monetization, significant inefficiencies exist within the conversion funnel and operational workflow. Electronics and Automotive categories dominate revenue generation but also contribute the highest operational risk through cancellations and returns. Funnel analysis highlights substantial customer drop-offs between product views and final purchases, indicating opportunities for pricing, checkout, and retention optimization. RFM Segmentation further shows that a small percentage of high-value customers drive disproportionately large revenue contributions, emphasizing the importance of customer retention and loyalty-focused strategies. Overall, the dashboard enables data-driven identification of revenue drivers, operational bottlenecks, customer behavior patterns, and market opportunities across the ecommerce ecosystem.
+
+---
+
+## 7. Dashboard Preview
+
+![Home Page](Dashboard Screenshots/Home Page.jpg)
+![Executive Overview](Dashboard Screenshots/Executive Overview.jpg)
+![Product Analytics](Dashboard Screenshots/Product Analytics.jpg)
+![Conversion Analytics](Dashboard Screenshots/Conversion Analytics.jpg)
+![Customer Analytics](Dashboard Screenshots/Customer Analytics.jpg)
+![Operational Analytics](Dashboard Screenshots/Operational Analytics.jpg)
+![Geographical Analytics](Dashboard Screenshots/Geographic Analytics.jpg
