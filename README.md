@@ -158,11 +158,23 @@ The analysis reveals that while the ecommerce platform demonstrates strong custo
 
 ## 7. Dashboard Preview
 
-Home Page:  ![Dashboard Preview](Dashboard Screenshots/Home Page.jpg)
+### Home Page
+![Dashboard Preview](Dashboard%20Screenshots/Home%20Page.jpg)
 
-![Executive Overview](Dashboard Screenshots/Executive Overview.jpg)
-![Product Analytics](Dashboard Screenshots/Product Analytics.jpg)
-![Conversion Analytics](Dashboard Screenshots/Conversion Analytics.jpg)
-![Customer Analytics](Dashboard Screenshots/Customer Analytics.jpg)
-![Operational Analytics](Dashboard Screenshots/Operational Analytics.jpg)
-![Geographical Analytics](Dashboard Screenshots/Geographic Analytics.jpg)
+### Executive Overview
+![Executive Overview](Dashboard%20Screenshots/Executive%20Overview.jpg)
+
+### Product Analytics
+![Product Analytics](Dashboard%20Screenshots/Product%20Analytics.jpg)
+
+### Conversion Analytics
+![Conversion Analytics](Dashboard%20Screenshots/Conversion%20Analytics.jpg)
+
+### Customer Analytics
+![Customer Analytics](Dashboard%20Screenshots/Customer%20Analytics.jpg)
+
+### Operational Analytics
+![Operational Analytics](Dashboard%20Screenshots/Operational%20Analytics.jpg)
+
+### Geographical Analytics
+![Geographical Analytics](Dashboard%20Screenshots/Geographic%20Analytics.jpg)
