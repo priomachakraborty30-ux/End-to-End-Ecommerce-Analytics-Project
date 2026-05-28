@@ -158,8 +158,8 @@ The analysis reveals that while the ecommerce platform demonstrates strong custo
 
 ## 7. Dashboard Preview
 
-![Home Page](Dashboard Screenshots/Home Page.jpg)
----
+Home Page:  ![Dashboard Preview](Dashboard Screenshots/Home Page.jpg)
+
 ![Executive Overview](Dashboard Screenshots/Executive Overview.jpg)
 ![Product Analytics](Dashboard Screenshots/Product Analytics.jpg)
 ![Conversion Analytics](Dashboard Screenshots/Conversion Analytics.jpg)
